@@ -1,0 +1,2 @@
+# Core dependencies for screenplay analysis
+# No external dependencies required - using custom parser
